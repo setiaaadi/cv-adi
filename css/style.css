@@ -1,0 +1,128 @@
+
+body{
+    margin: 0px;
+    background-color: rgba(64, 37, 163, 0.459);
+    text-align: center;
+    font-family: 'Fira Sans', sans-serif;
+}
+
+h1{
+    margin-bottom: 50px;
+}
+
+h2{
+    color: green;
+}
+
+a{
+    color: skyblue;
+}
+
+a:hover{
+    color:white
+}
+
+p{
+    line-height: 1.5;
+}
+
+.title {
+    font-size: 3.5rem;
+    font-weight: bold;
+    font-family:  "caveat" , cursive ;
+    display: block;
+}
+
+.btn{
+    background-color: chartreuse;
+    color: white;
+    border-radius: 10px;
+    padding : 12px 30px;
+    text-decoration: none;
+}
+.cta-text{
+    margin: 0 auto 25px auto ;
+    width: 68%;
+   
+}
+
+.intro{
+    text-align: left;
+}
+
+.fotoku{
+    float :right;
+    border-radius: 100%;
+    margin-left: 30px;
+    
+}
+
+.wrapper{
+   width: 720px;
+   padding-top: 150px;
+    margin: 0 auto;
+    
+}
+
+#attribut{
+    position: absolute;
+    left: 230px;
+    top: 80px;
+
+}
+
+.section{
+    margin-bottom: 100px;
+}
+
+.fotoku1{
+    width: 150px;
+    height: 150px;
+    float: left;
+    margin-right: 30px;
+}
+
+.fotoku1_img{
+text-align: justify;
+margin-bottom: 50px;
+}
+
+.fotoku2{
+    width: 150px;
+    height: 150px;
+    float: right;
+    margin-left: 30px;
+}
+
+.fotoku2_img{
+    text-align: justify;
+    margin-bottom: 50px;
+}
+
+
+.kontak{
+    background-color: greenyellow;
+    color: honeydew;
+    padding: 12px 30px;
+    border-radius: 10px;
+    display: inline-block;
+text-decoration: none;
+    
+}
+
+.footer{
+    background-color: #393e46;
+padding: 30px 0 20px;
+
+}
+
+.footer-text{
+    font-size: 14px;
+    color: white;
+}
+
+.social-links{
+    text-decoration: none;
+    color:skyblue;
+    margin: 0 10px ;
+}
